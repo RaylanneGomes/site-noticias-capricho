@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class CaprichoConfig(AppConfig):
-    name = 'Capricho'
+    name = 'noticias.Capricho'
